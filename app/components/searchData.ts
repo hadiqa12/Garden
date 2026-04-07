@@ -27,7 +27,7 @@ export const searchData: SearchResult[] = [
   },
   {
     title: 'Plants',
-    content: 'Find plant suggestions for different garden types and climates. Popular plants include Pepper, Tomato, Beans, and Aster. Pepper plants are warm-season vegetables that thrive in full sun. Tomatoes are popular home garden crops. Beans fix nitrogen in the soil. Asters are hardy flowering perennials.',
+    content: 'Find plant suggestions for different garden types and climates. Popular plants include Pepper, Tomato, Beans, Cucumber, Aster, and Lily. Pepper plants are warm-season vegetables that thrive in full sun. Tomatoes are popular home garden crops. Beans fix nitrogen in the soil. Cucumbers are fast-growing vines for warm weather. Asters are hardy flowering perennials.',
     url: '/plants',
     type: 'page'
   },
@@ -52,6 +52,12 @@ export const searchData: SearchResult[] = [
   {
     title: 'Beans',
     content: 'Beans (bush and pole types) are easy to grow and fix nitrogen in the soil. Pole beans benefit from a trellis, while bush beans are great for quick harvests in small spaces.',
+    url: '/plants',
+    type: 'section'
+  },
+  {
+    title: 'Cucumber',
+    content: 'Cucumbers are fast-growing warm-season vines that love heat and sun. Give them rich soil, steady water, and a trellis or support to keep fruit clean and easy to pick.',
     url: '/plants',
     type: 'section'
   },

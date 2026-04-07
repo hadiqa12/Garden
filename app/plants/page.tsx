@@ -44,6 +44,18 @@ export default function Plants() {
         <article className="plant-item">
           <img
             className="plant-image"
+            src="https://images.unsplash.com/photo-1676043966926-c575c1ef320a?w=1200&q=80&auto=format&fit=crop"
+            alt="Cucumber growing on a vine in a garden"
+          />
+          <div className="plant-info">
+            <h3>Cucumber</h3>
+            <p>Cucumbers are fast-growing warm-season vines that love heat and sun. Give them rich soil, steady water, and a trellis or support to keep fruit clean and easy to pick.</p>
+          </div>
+        </article>
+
+        <article className="plant-item">
+          <img
+            className="plant-image"
             src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=1200&q=80&auto=format&fit=crop"
             alt="Aster flowers"
           />
