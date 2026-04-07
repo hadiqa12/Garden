@@ -6,7 +6,7 @@ export default function Resources() {
 
       <h2>Guides & Websites</h2>
       <ul>
-        <li><a href="https://davesgarden.com/" target="_blank" rel="noopener noreferrer">Dave's Garden</a></li>
+        <li><a href="https://davesgarden.com/" target="_blank" rel="noopener noreferrer">Dave&apos;s Garden</a></li>
         <li><a href="https://www.gardeningknowhow.com/" target="_blank" rel="noopener noreferrer">Gardening Know How</a></li>
         <li><a href="https://www.garden.org/" target="_blank" rel="noopener noreferrer">National Gardening Association</a></li>
       </ul>
@@ -14,7 +14,7 @@ export default function Resources() {
       <h2>Books</h2>
       <ul>
         <li>Square Foot Gardening — Mel Bartholomew</li>
-        <li>The Vegetable Gardener's Bible — Edward C. Smith</li>
+        <li>The Vegetable Gardener&apos;s Bible — Edward C. Smith</li>
       </ul>
 
       <h2>Videos</h2>

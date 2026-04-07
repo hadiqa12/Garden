@@ -52,6 +52,19 @@ export default function Plants() {
             <p>Asters are hardy flowering perennials that attract pollinators. They bloom in late summer to fall and add bright color to garden borders and containers.</p>
           </div>
         </article>
+
+        <article className="plant-item">
+          <img
+            className="plant-image"
+            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80&auto=format&fit=crop"
+            alt="Beautiful lily flowers"
+          />
+          <div className="plant-info">
+            <h3>Lily</h3>
+            <p>Lilies are elegant flowering plants that add beauty and fragrance to gardens. They prefer well-drained soil and partial to full sun. Different varieties bloom in spring, summer, or fall, providing year-round interest.</p>
+          </div>
+        </article>
+
       </div>
     </section>
   )
