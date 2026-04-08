@@ -2,6 +2,7 @@ import './globals.css'
 import Link from 'next/link'
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
+import { Analytics } from '@vercel/analytics/next'
 import MobileMenu from './components/MobileMenu'
 import Logo from './components/Logo'
 import SearchBar from './components/SearchBar'
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         <main className="container">{children}</main>
 
         <footer className="footer">© {new Date().getFullYear()} Gardening Website</footer>
+        <Analytics />
       </body>
     </html>
   )
