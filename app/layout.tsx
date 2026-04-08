@@ -26,6 +26,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
             <Link href="/resources">Resources</Link>
             <Link href="/companion-gardening">Companion Gardening</Link>
             <Link href="/plants">Plants</Link>
+            <Link href="/whats-my-zone">What&apos;s My Zone?</Link>
           </nav>
           <SearchBar />
           <MobileMenu />

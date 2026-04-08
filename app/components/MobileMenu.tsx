@@ -32,6 +32,7 @@ export default function MobileMenu() {
         <Link href="/resources" onClick={() => setOpen(false)}>Resources</Link>
         <Link href="/companion-gardening" onClick={() => setOpen(false)}>Companion Gardening</Link>
         <Link href="/plants" onClick={() => setOpen(false)}>Plants</Link>
+        <Link href="/whats-my-zone" onClick={() => setOpen(false)}>What&apos;s My Zone?</Link>
       </nav>
     </div>
   )

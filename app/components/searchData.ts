@@ -38,6 +38,12 @@ export const searchData: SearchResult[] = [
     type: 'page'
   },
   {
+    title: 'What\'s My Zone?',
+    content: 'Find your USDA Hardiness Zone using your ZIP code, then choose plants that match your winter temperatures. Lower zone numbers are colder, higher numbers are warmer.',
+    url: '/whats-my-zone',
+    type: 'page'
+  },
+  {
     title: 'Pepper',
     content: 'Pepper plants are warm-season vegetables that thrive in full sun and well-drained soil. They prefer consistent moisture and benefit from staking for larger varieties.',
     url: '/plants',
